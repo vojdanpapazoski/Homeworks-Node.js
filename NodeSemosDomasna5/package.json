@@ -1,0 +1,17 @@
+{
+  "name": "nodesemosdomasna5",
+  "version": "1.0.0",
+  "description": "Mala Aplikacija",
+  "main": "domasnaApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node domasnaApp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
